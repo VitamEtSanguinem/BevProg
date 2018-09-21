@@ -14,7 +14,7 @@ cin >> first_name;
 cout << "ENTER AGE: " <<endl;
 cin >> age;
 
-if (0>= age >= 170)
+if (0>= age >= 130)
 {
 cout << "You must be kidding me....right?! " <<endl;
 }
